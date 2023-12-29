@@ -1,36 +1,3 @@
-![](./img/logo_ethers.jpeg)
-
-:globe_with_meridians:	**[English Version](https://github.com/WTFAcademy/WTF-Ethers/blob/main/en/README.md)** :globe_with_meridians:	
-
-# WTF Ethers
-我们最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers极简入门”，供小白们使用，每周更新1-3讲。
-
-这是[WTF Solidity极简教程](https://github.com/AmazingAng/WTFSolidity)姊妹篇，由[WTF Academy](https://wtf.academy)社群荣誉出品。
-
-> 注意: 本教程的版本基于最新的 Ethers.js v6版本，之前 v5 版本的教程见 [链接](https://github.com/WTFAcademy/WTF-Ethers/tree/wtf-ethers-v5)。
-
-
-
-路线图根据本仓库star数量来定：
-- [x] 64 :star: 建立社群：[discord](https://discord.gg/5akcruXrsk) | [微信群](https://docs.google.com/forms/d/e/1FAIpQLSe4KGT8Sh6sJ7hedQRuIYirOoZK_85miz3dw7vA1-YjodgJ-A/viewform)
-
-- [x] 128 :star: 出进阶内容
-
-- [ ] 256 :star: 发课程认证
-
-### VScode运行
-
-需要安装[VSCode](https://code.visualstudio.com/download)和[Node.js](https://nodejs.org/zh-cn/download/)，然后运行：
-
-```shell
-npm install
-node 01_HelloVitalik/HelloVitalik.js
-```
-### 在线编辑器运行
-
-`javascript`在线编辑平台：
-* [replit.com](https://replit.com/)
-* [playcode.io](https://playcode.io)
 
 ## 入门
 **第1讲：HelloVitalik（6行代码）**：【[Code](https://github.com/q573927428/WTF-Ethers//blob/main/01_HelloVitalik)】 【[教程](https://github.com/q573927428/WTF-Ethers//blob/main/01_HelloVitalik/readme.md)】

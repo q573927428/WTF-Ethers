@@ -97,7 +97,7 @@ node 01_HelloVitalik/HelloVitalik.js
 
 **ET02：钱包签名登录**：【[Code](https://github.com/WTFAcademy/WTFEthers/blob/main/ET02_SignInWithEthereum)】 【[教程](https://github.com/WTFAcademy/WTFEthers/blob/main/ET02_SignInWithEthereum/readme.md)】
 
-**ET02：监听区块变化**：【[Code](https://github.com/q573927428/WTF-Ethers/tree/main/qita_SignInWithEthereum)】 【[教程](https://github.com/q573927428/WTF-Ethers/tree/main/qita_SignInWithEthereum/readme.md)】
+**ET02：监听区块变化**：【[Code](https://github.com/q573927428/WTF-Ethers/tree/main/qita)】 【[教程](https://github.com/q573927428/WTF-Ethers/tree/main/qita)】
 
 ## WTF Ethers贡献者
 <div align="center">
